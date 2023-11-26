@@ -1,8 +1,19 @@
 import React from 'react'
+import Userauth from './Userauth'
 
 const App = () => {
   return (
-    <div>App</div>
+
+    <body>
+
+      <center>
+
+        <Userauth />
+
+      </center>
+
+    </body>
+
   )
 }
 
